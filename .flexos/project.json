@@ -51,5 +51,9 @@
     "aiModel": "gemini-flash"
   },
   "createdAt": "2026-03-23T19:04:55.952Z",
-  "updatedAt": "2026-03-23T19:04:55.952Z"
+  "updatedAt": "2026-03-23T19:04:55.952Z",
+  "counters": {
+    "sequence": 8,
+    "block": 0
+  }
 }
